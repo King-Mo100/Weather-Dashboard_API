@@ -18,7 +18,7 @@ body {
     white-space: nowrap;
 }
 
-.weather_search {
+.weatherSearch {
     width: 100%;
     padding: 15px, 10px;
     border: none;
@@ -33,35 +33,35 @@ input {
     
 }
 
-.weather_search::placeholder {
+.weatherSearch::placeholder {
     color: #fff;
     
 }
 
-.weather_today {
+.weatherToday {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
 
-.weather_image {
+.weatherImage {
     width: 30vmin;
     align-self: center;
 }
 
-.weather_city{
+.weatherCity{
     font-size: 35px;
     font-weight: 600;
     margin: 20px, 0;
 }
 
-.weather_day {
+.weatherDay {
     font-size: 30px;
     margin: 10px, 0;
     font-weight: 400;
 }
 
-.weather_indicator::before {
+.weatherIndicator::before {
     content: '';
     display: inline-block;
     vertical-align: middle;
