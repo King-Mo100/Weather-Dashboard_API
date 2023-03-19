@@ -21,3 +21,9 @@ N/A
 *locations with similar names can be written the following way e.g london ,gb*
 3. press the enter key on your keyboard to see your results.
 
+
+# Link
+
+https://king-mo100.github.io/Weather-Dashboard_API/
+
+![Site Prewiew](assets/images/site-preview.png)
