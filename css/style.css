@@ -100,14 +100,13 @@ input {
 }
 
 .weatherForecastItem{
-    background-color: rgba(225, 225, 225, 0.25);
+    background-color: rgba(225 , 225, 225, 0.2);
     border-radius: 10px;
     margin: 0 10px 10px;
     padding: 30px 5px 20px;
     box-sizing: border-box;
     min-width: 150px;
     width: calc(20% - 20px);
-    flex-grow: -1;
-
-
+    flex-grow: 1;
 }
+
